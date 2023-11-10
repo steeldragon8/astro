@@ -76,13 +76,13 @@ h1 {
         display: inline-block;
         padding: 15px 20px;
     }
+}
 
-    html.dark {
-        background-color: #0d0950;
-        color: #fff;
-    }
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
 
-    .dark .nav-links a {
-        color: #fff;
-    }
+.dark .nav-links a {
+    color: #fff;
 }
